@@ -1,0 +1,14 @@
+Here it is, the Sausage Cat public source code release.
+
+I want to dedicate this part to thank Luiz Alves, Crickkin, Krug, Hugo, Maikon, Oskar, KIYOSHI, Bacalhau my family and all my friends that worked on the project/tested it.
+
+I also want to thank you for buying (or not) the game!!!
+
+There is one problem: since GameMaker embeds the levels and content of the game inside the executable, I can only open-source the objects and scripts. And I also cannot share the metadata of the object (I guess). The code also does not have the Steam integrations since I cannot share them.
+
+Besides that, the code is easy to understand and you can learn some stuff with it. I really hope you enjoy reading it :)
+
+Sincerely,
+Gabriel G. Cunha (lemmtopia)
+
+22/04/2025
