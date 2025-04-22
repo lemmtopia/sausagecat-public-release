@@ -1,0 +1,1 @@
+if (global.is_steamed) global.is_steamed = false;

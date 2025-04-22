@@ -1,0 +1,1 @@
+if (room == rm_leveled) instance_destroy();
